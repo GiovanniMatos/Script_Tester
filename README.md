@@ -1,4 +1,4 @@
 # Script_Tester
-Compara arquivos html, css e js para identificar uso de tags desnecessárias no código. 
+Compara arquivos HTML, CSS e Javascript para identificar uso de tags desnecessárias no código e verificação de entrada de dados em formulários.
 
 substituir arquivos no diretório.
