@@ -5,7 +5,7 @@ Este script é uma ferramenta útil para desenvolvedores, testadores e analistas
 Recursos:
 - Análise de Arquivos HTML: O script utiliza a biblioteca BeautifulSoup para extrair informações e elementos de arquivos HTML, permitindo a análise detalhada de tags, atributos e conteúdo.
  
-- Análise de Arquivos JS: O script examina arquivos JavaScript em busca de variáveis e referências a elementos HTML.
+- Análise de Arquivos JS: O script examina arquivos JavaScript em busca de funções, variáveis e referências a elementos HTML.
 
 - Comparação de Arquivos: O script permite comparar arquivos HTML, CSS e JS interligados, destacando as diferenças, tags que correspondem, estão sendo usadas a mais ou que estão em falta.
  
